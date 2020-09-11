@@ -1,0 +1,7 @@
+telegram_api:
+  api_id: 666666
+  api_hash: 6666666666666666666666666666666
+  api_phone: +16666666666
+  api_password: 666666
+  proxy_host: 127.0.0.1
+  proxy_port: 1080
